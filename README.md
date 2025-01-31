@@ -1,5 +1,3 @@
-# Graduation_project
-
 # Graduation_Project
 
 ## Neural Network Modeling for Model Predictive Control of Nonlinear Chemical Processes
